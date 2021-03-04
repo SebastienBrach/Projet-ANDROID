@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CARDOSO - BRACH - ProjectIUT</string>
+    <string name="home">Football</string>
+    <string name="subtitle">All games</string>
+    <string name="select">Select a country</string>
+    <string name="subtitleTeams">All teams</string>
+</resources>

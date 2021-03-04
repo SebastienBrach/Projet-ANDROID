@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CARDOSO - BRACH - ProjectIUT</string>
+    <string name="home">Football</string>
+    <string name="subtitle">Tous les matchs</string>
+    <string name="select" tools:ignore="MissingTranslation">Sélectionner un pays</string>
+    <string name="subtitleTeams" tools:ignore="MissingTranslation">Toutes les équipes</string>
+</resources>
